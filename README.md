@@ -80,7 +80,6 @@ Success Rate: 50%
 ## Bonus
 Try to make functional tests for your current project!
 
-Here are two additional tasks that could be added to your functional test in bash workshop, building upon the current progression and functionality:
+# Result example:
 
----
-
+![image](https://github.com/user-attachments/assets/b951e90b-1754-4508-b2d3-31e5ff5c40de)
